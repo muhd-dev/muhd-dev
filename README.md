@@ -11,9 +11,6 @@ My ultimate goal in life is to inspire my generation while being part of a dynam
 
 I began my coding journey in June 2023, and ever since, I've been deeply immersed in the world of programming. When I'm not coding, you'll often find me engrossed in self-help books, learning to improve on new languages (French & Arabic) and exploring the internet to stay up-to-date with the latest advancements in technology.
 
-<!-- code gif-->
-<img align="right" alt="GIF" src="./code.gif" width="500" height="320" />
-
 - 😄 I identify as: Multfaceted, Versatile, Smart   
 
 - 💬 Ask me about: Tech, Self-reinvention, Content Creation.
