@@ -3,7 +3,7 @@
  
  <!-- About section -->
  ---
-👨🏽‍💻 I'm a Software Developer and Developer Advocate passionate about people, problem-solving, coding and creating innovative solutions using technology.
+👨🏽‍💻 I'm a Software Developer, Designer and Advocate passionate about people, problem-solving, coding and creating innovative solutions using technology.
 
 I love sharing my multifaceted experiences & knowledge with others, and I do that through content creation on my <a href="https://medium.com/@muhammadidoniwako">Blog</a> and <a href="https://www.youtube.com/@muhd-dev">YouTube</a> channel. I was a photographer for almost a decade until I fell in love with tech, self-reinvetion and life-long learning.
 
