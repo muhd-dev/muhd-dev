@@ -5,9 +5,10 @@
  ---
 👨🏽‍💻 I'm a Software Developer, Designer and Advocate passionate about people, problem-solving, coding and creating innovative solutions using technology.
 
+My ultimate goal in life is to inspire my generation while being part of a dynamic and innovative community where I will b able to contribute to its growth and, in the process, enhance my professional and personal growth as well!
+
 I love sharing my multifaceted experiences & knowledge with others, and I do that through content creation on my <a href="https://medium.com/@muhammadidoniwako">Blog</a> and <a href="https://www.youtube.com/@muhd-dev">YouTube</a> channel. I was a photographer for almost a decade until I fell in love with tech, self-reinvention and life-long learning.
 
-My ultimate goal in life is to inspire my generation while being part of a dynamic and innovative community where I will contribute to its growth and, in the process, enhance my professional and personal growth as well!
 
 I began my coding journey in June 2023, and ever since, I've been deeply immersed in the world of programming. When I'm not coding, you'll often find me engrossed in self-help books, learning to improve on new languages (French & Arabic) and exploring the internet to stay up-to-date with the latest advancements in technology.
 
