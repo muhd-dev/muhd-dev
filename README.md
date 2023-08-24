@@ -3,7 +3,7 @@
  
  <!-- About section -->
  ---
-👨🏽‍💻 I'm a Software Developer, Designer and Advocate passionate about people, problem-solving, coding and creating innovative solutions using technology.
+👨🏽‍💻 I'm a Full-stack Developer, Designer and Advocate passionate about people, life-long learning, problem-solving, coding and creating innovative solutions using technology.
 
 My ultimate goal in life is to inspire my generation while being part of a dynamic and innovative community where I will b able to contribute to its growth and, in the process, enhance my professional and personal growth as well!
 
