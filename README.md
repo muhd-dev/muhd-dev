@@ -3,7 +3,7 @@
 
 <!-- Introduction -->
 <p align="center">
-    👨🏽‍💻 Full-stack Developer | Designer | Advocate <br>
+    👨🏽‍💻 Full-Stack Developer | Designer | Advisor <br>
     🌟 Passionate about people, innovation, problem-solving, and lifelong learning <br>
     📷 Ace Photographer turned Tech Enthusiast!
 </p>
