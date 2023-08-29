@@ -19,7 +19,7 @@
 <!-- About -->
 <h2>About Me</h2>
 <p>
-    Hey there! I'm Muhammad Idoniwako, and I'm on a journey to harness the power of technology for positive change. As a <strong>Full-stack Developer</strong> and <strong>Designer</strong>, I combine my creative and technical skills to craft innovative solutions that address real-world challenges.
+    😃 I am on a journey to harness the power of technology for positive change. As a <strong>Full-Stack Developer</strong> and <strong>Designer</strong>, I combine my creative and technical skills to craft innovative solutions that address real-world challenges.
 </p>
 <p>
     🎯 My goal is to inspire my generation and contribute to a dynamic and innovative community. Through this, I aim to continuously grow both professionally and personally.
