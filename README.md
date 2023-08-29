@@ -1,5 +1,5 @@
 <!-- Heading -->
-<h1 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Muhammad Idoniwako</h1>
+<h1 align="center"> Hi, I'm Muhammad Idoniwako <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1> 
 
 <!-- Introduction -->
 <p align="center">
