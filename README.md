@@ -50,7 +50,7 @@
 <h2 align="left"> <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> GitHub Activity</h2>
 
 <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhd-dev&langs_count=10&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" height="192px" width="500px" />
+    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=muhd-dev&langs_count=10&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" height="192px" width="500px" />
 </p>
 <p align="center">
     <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=muhd-dev&show_icons=true&theme=dark" alt="GitHub Stats" />
